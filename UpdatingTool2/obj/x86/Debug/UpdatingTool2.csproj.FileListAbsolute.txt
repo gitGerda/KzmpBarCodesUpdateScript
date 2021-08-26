@@ -6,3 +6,12 @@ A:\WORK\PROJECTS\KZMP_BarCodes\UpdatingTool2\obj\x86\Debug\UpdatingTool2.csproj.
 A:\WORK\PROJECTS\KZMP_BarCodes\UpdatingTool2\obj\x86\Debug\UpdatingTool2.csproj.CoreCompileInputs.cache
 A:\WORK\PROJECTS\KZMP_BarCodes\UpdatingTool2\obj\x86\Debug\UpdatingTool2.exe
 A:\WORK\PROJECTS\KZMP_BarCodes\UpdatingTool2\obj\x86\Debug\UpdatingTool2.pdb
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\bin\x86\Debug\UpdatingTool2.exe.config
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\bin\x86\Debug\UpdatingTool2.exe
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\bin\x86\Debug\UpdatingTool2.pdb
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\obj\x86\Debug\UpdatingTool2.csproj.AssemblyReference.cache
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\obj\x86\Debug\Interop.V83.dll
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\obj\x86\Debug\UpdatingTool2.csproj.ResolveComReference.cache
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\obj\x86\Debug\UpdatingTool2.csproj.CoreCompileInputs.cache
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\obj\x86\Debug\UpdatingTool2.exe
+A:\GitHubRepo\KzmpBarCodesUpdateScript\UpdatingTool2\obj\x86\Debug\UpdatingTool2.pdb
